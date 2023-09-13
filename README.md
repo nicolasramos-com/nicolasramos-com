@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Binhex Systems Solutions (binhex.es)**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **OCA**
 
