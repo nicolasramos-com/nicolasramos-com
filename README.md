@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nicolasramos_es" target="blank"><img src="https://img.shields.io/twitter/follow/nicolasramos_es?logo=twitter&style=for-the-badge" alt="nicolasramos_es" /></a> </p>
 
-- 🔭 I’m currently working on **Autónomo**
+- 🔭 I’m currently working on **Binhex Systems Solutions (binhex.es)**
 
 - 🌱 I’m currently learning **Rust**
 
