@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolás Ramos</h1>
 <h3 align="center">Ingeniero de software, adicto a la forma de vida dependiente de la cafeína y amante de OpenSource</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolasramos" alt="nicolasramos" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolasramos-com" alt="nicolasramos" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nicolasramos_es" target="blank"><img src="https://img.shields.io/twitter/follow/nicolasramos_es?logo=twitter&style=for-the-badge" alt="nicolasramos_es" /></a> </p>
 
