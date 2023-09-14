@@ -35,7 +35,6 @@
 <a href="https://linkedin.com/in/nicolasramoses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolasramoses" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22208595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22208595" height="30" width="40" /></a>
 <a href="https://codesandbox.com/nicolasramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="nicolasramos" height="30" width="40" /></a>
-<a href="https://fb.com/nramos.es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nramos.es" height="30" width="40" /></a>
 <a href="https://hashnode.com/@nicolasramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@nicolasramos" height="30" width="40" /></a>
 <a href="https://medium.com/@nicolasramos.es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nicolasramos.es" height="30" width="40" /></a>
 </p>
